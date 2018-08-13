@@ -1,5 +1,5 @@
 package org.Error;
-
+// this program explains about memory out of error.
 
 
 import java.util.Date;
