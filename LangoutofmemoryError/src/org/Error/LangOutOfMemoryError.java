@@ -1,5 +1,6 @@
 package org.Error;
 // this program explains about memory out of error.
+//calculates free memory and runtime memory of thee application
 
 
 import java.util.Date;
