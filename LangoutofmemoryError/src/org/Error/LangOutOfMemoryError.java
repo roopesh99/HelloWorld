@@ -23,7 +23,7 @@ public class LangOutOfMemoryError  {
 		try{
 			for (int outerIterator = 1; outerIterator < 20; outerIterator++) {
 		
-			System.out.println("Iteration " + outerIterator + " Free Mem: " + Runtime.getRuntime().freeMemory()); // to calculate free memmory
+			System.out.println("Iteration " + outerIterator + " Free Mem: " + Runtime.getRuntime().freeMemory()); 
 			int loop1 = 2;
 			int[] memoryFillIntVar = new int[iteratorValue];
 			// feel memoryFillIntVar array in loop..
